@@ -5,5 +5,5 @@
 .env
 
 # Editor/IDE
- .idea
+ .idea/
  .vscode/
